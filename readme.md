@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ellie. 
 - 👀 I’m interested in making a career change into software engineering. 
 - 🌱 I’m currently learning Javascript through the CodeOp Full Stack Development bootcamp. 
-- 📫 You can also find me on Twitter @elliefoote_ 
+- 📫 You can also find me on Twitter @codewithellie
