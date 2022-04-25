@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ellie</h1>
 <h3 align="center">A full stack developer from Australia living in Barcelona</h3>
 
-- 🌱 I’m currently learning **GatsbyJS and practicing data structures and algorithms in Javascript**
+- 🌱 I’m currently learning **Jest and React Testing Library!**
 
 - 👨‍💻 All of my projects are available at [http://www.elliefoote.com](http://www.elliefoote.com)
 
