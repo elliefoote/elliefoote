@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Jest and React Testing Library!**
 
-- 👨‍💻 All of my projects are available at [http://www.elliefoote.com](http://www.elliefoote.com)
-
-- 💬 Ask me about **my experience completing a coding bootcamp!**
+- 👨‍💻 My latest projects are available at [http://www.elliefoote.com](http://www.elliefoote.com)
 
 - ⚡ Fun fact about me: **I can solve a Rubik's cube!**
 
